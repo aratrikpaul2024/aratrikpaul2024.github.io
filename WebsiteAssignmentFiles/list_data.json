@@ -1,22 +1,32 @@
 {
-	"movies": [
+	"Past Experience": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Consultant",
+			"Company": "PwC (PricewaterhouseCoopers)",
+			"Rating": "1 (1 Being the best and 5 being the worst)",
+			"Years": "2020-2024"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Data Analyst Intern",
+			"Company": "Hewlett Packard Enterprises",
+			"Rating": "1",
+			"Years": "2020"
+		},
+
+	]
+	"Favourite Restaurants": [
+		{
+			"Name": "Pizza Bakery",
+			"Location": "Bangalore, India",
+			"Rating": " 4.7 on Zomato",
+			"Years since opening": "5"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
-		}
+			"Name": "Coast 2 Coast",
+			"Location": "Bangalore, India",
+			"Rating": " 4.9 on Zomato",
+			"Years since opening": "15"
+		},
+
 	]
 }

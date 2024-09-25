@@ -13,20 +13,6 @@
 			"Years": "2020"
 		},
 
-	]
-	"Favourite Restaurants": [
-		{
-			"Name": "Pizza Bakery",
-			"Location": "Bangalore, India",
-			"Rating": " 4.7 on Zomato",
-			"Years since opening": "5"
-		},
-		{
-			"Name": "Coast 2 Coast",
-			"Location": "Bangalore, India",
-			"Rating": " 4.9 on Zomato",
-			"Years since opening": "15"
-		},
 
 	]
 }

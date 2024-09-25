@@ -1,5 +1,5 @@
 {
-	"Past Experience": {
+	"Past Experience": [
 		{
 			"Title": "Consultant",
 			"Company": "PwC (PricewaterhouseCoopers)",
@@ -11,8 +11,6 @@
 			"Company": "Hewlett Packard Enterprises",
 			"Rating": "1",
 			"Years": "2020"
-		},
-
-
-}
+		}
+	]
 }
